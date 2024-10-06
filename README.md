@@ -2,6 +2,8 @@
 a repo to hold preliminary projects pertaining to the real estate market in hawaii and its relationship to legislation 
 
 # links
+- State Legislation (API): https://docs.openstates.org/
+- Maui County Legislation (RSS): https://legiscan.com/HI/legislation 
 - Hawaii open data portal: https://opendata.hawaii.gov/dataset/affordable-rental-housing-inventory-hhfdc
 - Zillow Data: https://www.zillowgroup.com/developers/public-data/ 
 - Office of the Governor's Housing Team https://hale.hawaii.gov/2024/08/07/hawai%CA%BBi-2024-legislative-housing-digest/
