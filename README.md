@@ -2,6 +2,7 @@
 a repo to hold preliminary projects pertaining to the real estate market in hawaii and its relationship to legislation 
 
 # links
+- maui now accomodation units https://mauinow.com/2019/01/29/maui-has-26-of-states-visitor-accommodation-units/
 - uhero data on rental breakdown in maui https://uhero.hawaii.edu/maui-short-term-rentals-the-minatoya-list-and-housing-supply/
 - State Legislation (API): https://docs.openstates.org/
 - Maui County Legislation (RSS): https://legiscan.com/HI/legislation 
