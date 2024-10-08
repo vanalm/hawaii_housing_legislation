@@ -19,31 +19,30 @@
 
 ## IDEAS
 
-- **Legislative Tracking AI**
--- *Description*: A tool that automatically tracks and updates with changes in legislation at local, state, and federal levels related to housing.
--- Integrates with RSS feeds, government APIs, and/or scraping mechanisms to pull new legislation, classify it, and alert the user
--- LLM classification to group and categorize laws based on topics, with keyword monitoring for efficient automatic flagging.
+**Legislative Tracking AI**
+*Description*: A tool that automatically tracks and updates with changes in legislation at local, state, and federal levels related to housing.
+- Integrates with RSS feeds, government APIs, and/or scraping mechanisms to pull new legislation, classify it, and alert the user
+- LLM classification to group and categorize laws based on topics, with keyword monitoring for efficient automatic flagging.
 
-- **Build Legislative Dataset**
--- *Description*: Build a dataset with bills and resolutions and relevant dates for relating to other housing market dynamics
--- Integrate the Legislative tracking tool, use AI categorization to automatically populate database.
--- Utilize regression models or neural networks for forecasting.
+**Build Legislative Dataset** 
+*Description*: Build a dataset with bills and resolutions and relevant dates for relating to other housing market dynamics
+- Integrate the Legislative tracking tool, use AI categorization to automatically populate database.
+- Utilize regression models or neural networks for forecasting.
 
-- **Legislation Impact Prediction Tool**
--- *Description*: A predictive model that evaluates the likely economic, social, and fiscal impacts of proposed legislation.
--- Apply machine learning model to predict such as financial burdens, social change, or policy efficacy.
+**Legislation Impact Prediction Tool**
+- *Description*: A predictive model that evaluates the likely economic, social, and fiscal impacts of proposed legislation.
+- Apply machine learning model to predict such as financial burdens, social change, or policy efficacy.
 
-- **Data Visualization Assistant**
--- *Description*: An application that takes in raw legislative and economic data  and automatically generates visual reports, charts, dashboards, and infographics.
--- GPT-based summaries combined with visualization libraries like Tableau, Matplotlib, Plotly, or D3.js.
+**Data Report Application**
+*Description*: An application that takes in raw legislative and economic data  and automatically generates visual reports, charts, dashboards, and infographics.
+- GPT-based summaries combined with visualization libraries like Tableau, Matplotlib, Plotly, or D3.js.
 
-- Policy Analysis Chatbot
--- *Description*: A chatbot that answers questions about ongoing legislation, summarizing key points and impacts for stakeholders.
--- *Automation*: The bot could pull relevant data from current legislative proposals and answer questions about implications, priorities, or specific legal sections.
--- *AI Potential*: Leverages conversational AI (GPT-based) to respond in real-time with up-to-date information.
+**Policy Analysis Chatbot**
+*Description*: A chatbot that answers questions about ongoing legislation, summarizing key points and impacts for stakeholders.
+- use vectorized database of relevant data from current legislative proposals and bills etc, and answer questions about implications, priorities, or specific legal sections, or current 
 
-- Stakeholder Management Tool
--- *Description*: Automates stakeholder engagement by suggesting agenda items, sending meeting invitations, and generating minutes based on AI-generated action points.
+**Stakeholder Management Tool**
+*Description*: Automates stakeholder engagement by suggesting agenda items, sending meeting invitations, and generating minutes based on AI-generated action points.
 -- *Automation*: NLP could scan past meeting notes and recommend agenda topics based on the last discussion.
 -- *AI Potential*: NLP tools could automatically generate summaries, synthesize input from stakeholders, and offer action items or strategies.
 
