@@ -20,8 +20,8 @@
 ## IDEAS
 
 - **Legislative Tracking AI**
--- *Description*: A tool that automatically tracks and updates with changes in legislation at local, state, and federal levels related to housing.
--- *Automation*:
+--*Description*: A tool that automatically tracks and updates with changes in legislation at local, state, and federal levels related to housing.
+--*Automation*:
   ---Integrates with RSS feeds, government APIs, and/or scraping mechanisms to pull new legislation, classify it, and alert the user
   ---LLM classification to group and categorize laws based on topics, with keyword monitoring for efficient automatic flagging.
 
