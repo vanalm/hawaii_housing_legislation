@@ -2,6 +2,8 @@
 a repo to hold preliminary projects pertaining to the real estate market in hawaii and its relationship to legislation 
 
 # links
+- 
+- Hawaii Vacation Rental Performance Report; https://files.hawaii.gov/dbedt/visitor/vacation-rental/hawaii-vacation-rental-performance-2022-01.pdf , https://files.hawaii.gov/dbedt/visitor/vacation-rental/hawaii-vacation-rental-performance-2022-04.pdf 
 - Minatoya list stats: https://app.helpingmaui.org/data/minastats 
 - maui now accomodation units https://mauinow.com/2019/01/29/maui-has-26-of-states-visitor-accommodation-units/
 - **uhero data on rental breakdown on maui https://uhero.hawaii.edu/maui-short-term-rentals-the-minatoya-list-and-housing-supply/
