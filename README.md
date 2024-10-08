@@ -20,26 +20,22 @@
 ## IDEAS
 
 - **Legislative Tracking AI**
---*Description*: A tool that automatically tracks and updates with changes in legislation at local, state, and federal levels related to housing.
---*Automation*:
-  ---Integrates with RSS feeds, government APIs, and/or scraping mechanisms to pull new legislation, classify it, and alert the user
-  ---LLM classification to group and categorize laws based on topics, with keyword monitoring for efficient automatic flagging.
+-- *Description*: A tool that automatically tracks and updates with changes in legislation at local, state, and federal levels related to housing.
+-- Integrates with RSS feeds, government APIs, and/or scraping mechanisms to pull new legislation, classify it, and alert the user
+-- LLM classification to group and categorize laws based on topics, with keyword monitoring for efficient automatic flagging.
 
 - **Build Legislative Dataset**
 -- *Description*: Build a dataset with bills and resolutions and relevant dates for relating to other housing market dynamics
--- *Automation*: Integrate the Legislative tracking tool, use AI categorization to automatically populate database.
--- AI Potential: Utilize regression models or neural networks for forecasting.
-
+-- Integrate the Legislative tracking tool, use AI categorization to automatically populate database.
+-- Utilize regression models or neural networks for forecasting.
 
 - **Legislation Impact Prediction Tool**
 -- *Description*: A predictive model that evaluates the likely economic, social, and fiscal impacts of proposed legislation.
--- *Automation*: Combines historical data on similar legislation with machine learning models to forecast future outcomes, such as financial burdens, social change, or policy efficacy.
--- *AI Potential*: Utilize regression models or neural networks for forecasting.
+-- Apply machine learning model to predict such as financial burdens, social change, or policy efficacy.
 
-- Data Visualization Assistant
--- *Description*: A tool that takes raw legislative and economic data and automatically generates visual reports, charts, dashboards, and infographics.
--- *Automation*: Automatically creates presentations from a dataset using templates for non-technical stakeholders.
--- *AI Potential*: GPT-based summaries combined with visualization libraries like Matplotlib, Plotly, or D3.js.
+- **Data Visualization Assistant**
+-- *Description*: An application that takes in raw legislative and economic data  and automatically generates visual reports, charts, dashboards, and infographics.
+-- GPT-based summaries combined with visualization libraries like Tableau, Matplotlib, Plotly, or D3.js.
 
 - Policy Analysis Chatbot
 -- *Description*: A chatbot that answers questions about ongoing legislation, summarizing key points and impacts for stakeholders.
